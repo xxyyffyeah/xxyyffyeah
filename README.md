@@ -6,7 +6,7 @@
 
 I am a Ph.D. student in Computer Science and Engineering at the University of Notre Dame.
 
-Homepage: [https://xxyyffyeah.github.io/](https://yfxu.org/)
+Homepage: [https://yfxu.org/](https://xxyyffyeah.github.io/)
 
 Research Interests:
 
